@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 佛山开发票
 
-You can use the [editor on GitHub](https://github.com/shishi1/shishi1.github/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shishi1/shishi1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+theme
+主题
+  拼音  双语对照 
+排序
+简明释义
+牛津词典
+柯林斯词典
+英英释义
+双语例句
+继续查词
+theme
+英 [θi:m]   美 [θim]  
+n.
+[乐]主题;主旋律;题目，话题;（学生的）作文
+adj.
+以奇想主题布置的
+复数： themes
+高考CET6考研TOEFL
+数据来源：金山词霸
+看美剧还离不开字幕？每天5分钟，甩掉字幕你也可以！
+牛津词典
+noun
+1
+the subject or main idea in a talk, piece of writing or work of art （演讲、文章或艺术作品的）题目，主题，主题思想
+North American literature is the main theme 
